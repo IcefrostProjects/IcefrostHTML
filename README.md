@@ -43,7 +43,7 @@
   <tr>
     <td> Calais </td>
     <td> Prince </td>
-    <td> B </td>
+    <td> n/a </td>
     <td> Nov 9, 2008 </td>
     <td> 177.8 cm </td>
     <td> ?</td>
