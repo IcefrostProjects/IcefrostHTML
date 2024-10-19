@@ -5,21 +5,6 @@ IMPACT G-11 S.Y (2024-2025)
 <title> PWC Masterlist </title>
 <h1> Class list <h1>
 
-table, th, td{
-border: 3px solid black;
-border-collapse: collapse;
-padding: 1px;
-
-th {
-background-color; yellow
-}
-
-td {
-background-color; yellow
-}
-
-</style>
-
 <table>
 
   <tr>
