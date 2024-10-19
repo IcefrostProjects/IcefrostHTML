@@ -1,9 +1,6 @@
-IMPACT G-11 S.Y (2024-2025)
-
 <!DOCTYPE html>
 <html>
-<title> PWC Masterlist </title>
-<h1> Class list <h1>
+<h1> IMPACT G-11 S.Y (2024-2025) Class list <h1>
 
 <table>
 
