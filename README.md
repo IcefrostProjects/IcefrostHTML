@@ -5,13 +5,6 @@ IMPACT G-11 S.Y (2024-2025)
 <title> PWC Masterlist </title>
 <h1> Class list <h1>
 
-<style>
-
-@font-face { font-family: JuneBug; src: url('JUNEBUG.TTF'); } 
-h1 {
-font-family: JuneBug
-}
-
 table, th, td{
 border: 3px solid black;
 border-collapse: collapse;
