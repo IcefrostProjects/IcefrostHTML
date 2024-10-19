@@ -26,7 +26,7 @@
     <td> Dayon </td>
     <td> Shan </td>
     <td> N/a </td>
-    <td> Octover 4, 2007 </td>
+    <td> October 4, 2007 </td>
     <td> 161 cm </td>
     <td> ? </td>
     <td> Christian </td>
